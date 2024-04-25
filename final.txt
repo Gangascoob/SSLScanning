@@ -1,0 +1,5 @@
+https://api.ssllabs.com/api/v4/analyze?host=ci.dev.dirac.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=s3.eidf.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=eidf-mft.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=linksharing.storj.dirac.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=api.ts.eidf.epcc.ed.ac.uk: Unable to resolve domain name

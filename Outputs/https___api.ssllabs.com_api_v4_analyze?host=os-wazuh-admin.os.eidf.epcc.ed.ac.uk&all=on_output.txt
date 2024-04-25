@@ -1,0 +1,1 @@
+{"host":"os-wazuh-admin.os.eidf.epcc.ed.ac.uk","port":443,"protocol":"http","isPublic":false,"status":"ERROR","statusMessage":"Unable to resolve domain name","startTime":1711445778453,"testTime":1711445778875,"engineVersion":"2.3.0","criteriaVersion":"2009q","cacheExpiryTime":1711445838875}

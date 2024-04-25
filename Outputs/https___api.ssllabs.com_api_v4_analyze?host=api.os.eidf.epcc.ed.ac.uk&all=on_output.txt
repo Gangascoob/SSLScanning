@@ -1,0 +1,1 @@
+{"host":"api.os.eidf.epcc.ed.ac.uk","port":443,"protocol":"http","isPublic":false,"status":"ERROR","statusMessage":"Unable to resolve domain name","startTime":1711448342799,"testTime":1711448343226,"engineVersion":"2.3.0","criteriaVersion":"2009q","cacheExpiryTime":1711448403226}

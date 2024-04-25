@@ -1,0 +1,90 @@
+https://api.ssllabs.com/api/v4/analyze?host=ci.dev.dirac.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=s3.eidf.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=eidf-mft.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=linksharing.storj.dirac.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=api.ts.eidf.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=git.dev.dirac.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=ckan.epcc.ed.ac.uk: T
+https://api.ssllabs.com/api/v4/analyze?host=chat.epcc.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=gateway-mt.storj.dirac.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=coursechat.epcc.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=www.software.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=shs-helpdesk.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=pad.archer2.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=peacetech.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=edgen-smrtlink.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=somerville.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=os-wazuh.os.eidf.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=services.acf.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=tomorrowscities-data.geosciences.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=webapps.epcc.ed.ac.uk: C
+https://api.ssllabs.com/api/v4/analyze?host=safe-dev.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=os-wazuh-admin.os.eidf.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=eidf-vdi.epcc.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=safe.epcc.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=bscw.epcc.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=data.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=lens.acf.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=eidf.epcc.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=secure.epcc.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=scotnsh-transfer.epcc.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=iso-redmine.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=shs.epcc.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=outreach.epcc.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=turnip.eidf.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=portal.eidf.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=nmon.services.acf.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=joplin.dev.dirac.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=api.os.eidf.epcc.ed.ac.uk: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=smartdatafoundry.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=bitwarden.acf.ed.ac.uk: B
+https://api.ssllabs.com/api/v4/analyze?host=asimov-chat.epcc.ed.ac.uk: A+
+https://api.ssllabs.com/api/v4/analyze?host=fellows.software.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=artifacts.dev.dirac.ed.ac.uk: T
+https://api.ssllabs.com/api/v4/analyze?host=eidf-access.epcc.ed.ac.uk: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=epcc.ed.ac.uk: A
+https://api.ssllabs.com/api/v4/analyze?host=ci.dev.dirac.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=s3.eidf.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=eidf-mft.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=linksharing.storj.dirac.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=api.ts.eidf.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=git.dev.dirac.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=ckan.epcc.ed.ac.uk&all=on: T
+https://api.ssllabs.com/api/v4/analyze?host=chat.epcc.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=gateway-mt.storj.dirac.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=coursechat.epcc.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=www.software.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=shs-helpdesk.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=pad.archer2.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=peacetech.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=edgen-smrtlink.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=somerville.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=os-wazuh.os.eidf.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=services.acf.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=tomorrowscities-data.geosciences.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=webapps.epcc.ed.ac.uk&all=on: C
+https://api.ssllabs.com/api/v4/analyze?host=safe-dev.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=os-wazuh-admin.os.eidf.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=eidf-vdi.epcc.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=safe.epcc.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=bscw.epcc.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=data.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=lens.acf.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=eidf.epcc.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=secure.epcc.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=scotnsh-transfer.epcc.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=iso-redmine.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=shs.epcc.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=outreach.epcc.ed.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=turnip.eidf.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=portal.eidf.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=nmon.services.acf.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=joplin.dev.dirac.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=api.os.eidf.epcc.ed.ac.uk&all=on: Unable to resolve domain name
+https://api.ssllabs.com/api/v4/analyze?host=smartdatafoundry.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=bitwarden.acf.ed.ac.uk&all=on: B
+https://api.ssllabs.com/api/v4/analyze?host=asimov-chat.epcc.ed.ac.uk&all=on: A+
+https://api.ssllabs.com/api/v4/analyze?host=fellows.software.ac.uk&all=on: A
+https://api.ssllabs.com/api/v4/analyze?host=artifacts.dev.dirac.ed.ac.uk&all=on: T
+https://api.ssllabs.com/api/v4/analyze?host=eidf-access.epcc.ed.ac.uk&all=on: Unable to connect to the server
+https://api.ssllabs.com/api/v4/analyze?host=epcc.ed.ac.uk&all=on: A

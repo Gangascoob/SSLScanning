@@ -1,0 +1,1 @@
+{"host":"data.epcc.ed.ac.uk","port":443,"protocol":"http","isPublic":false,"status":"ERROR","statusMessage":"Unable to resolve domain name","startTime":1711446389878,"testTime":1711446390346,"engineVersion":"2.3.0","criteriaVersion":"2009q","cacheExpiryTime":1711446450346}
